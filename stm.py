@@ -6,7 +6,6 @@ import os
 import tensorflow_hub as hub
 from PIL import Image, ImageOps
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 from tensorflow.keras import preprocessing
 from tensorflow.keras.models import load_model
